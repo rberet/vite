@@ -1,0 +1,11 @@
+{
+  "include": [
+    "./**/*"
+  ],
+  "compilerOptions": {
+    "strict": true,
+    "esModuleInterop": true,
+    "lib": ["dom", "es2020", "esnext.intl"],
+    "jsx": "react-jsx"
+  }
+}
